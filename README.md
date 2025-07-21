@@ -1,7 +1,7 @@
 # 📊 Power BI Dashboards
 
-Hey there — welcome to my collection of Power BI dashboards!  
-This is where I stash all the fun (and functional) data projects I’ve built using Power BI — from job market deep dives to business performance reports.
+my collection of Power BI dashboards!  
+This is my collection of Power BI dashboards - all the fun (and functional) data projects I’ve built using Power BI — from job market deep dives to business performance reports.
 
 Most of these were built using real-world datasets, cleaned up and shaped into something actually useful.  
 Some use data pulled from [datanerd.tech](https://datanerd.tech)
