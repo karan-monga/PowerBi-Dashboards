@@ -11,11 +11,11 @@ Most of these were built using real-world datasets, cleaned up and shaped into s
 
 Each dashboard in here is a mini case study in:
 
-- **Power Query (ETL)**: Cleaning up messy data and getting it dashboard-ready
-- **DAX & Measures**: Custom metrics like salary medians, remote job ratios, etc.
-- **Visuals**: Bar charts, line charts, KPIs, maps — you name it
-- **Interactivity**: Slicers, drill-throughs, bookmarks, buttons — so users don’t just stare, they explore
-- **Design thinking**: Making sure the layout isn’t just pretty, but tells a story
+🧹 **Power Query (ETL):** Cleaning up messy data and getting it dashboard-ready  
+📐 **DAX & Measures:** Custom metrics like salary medians, remote job ratios, etc.  
+📊 **Visuals:** Bar charts, line charts, KPIs, maps — you name it  
+🕹️ **Interactivity:** Slicers, drill-throughs, bookmarks, buttons — so users don’t just stare, they explore  
+🎨 **Design thinking:** Making sure the layout isn’t just pretty, but tells a story
 
 ---
 
