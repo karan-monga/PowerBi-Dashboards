@@ -2,6 +2,8 @@
 
 This Power BI dashboard explores the 2024 data job market across roles, salaries, locations, and remote opportunities. It's designed to help job seekers, career switchers, and curious data nerds understand the trends in hiring and compensation.
 
+<img src="../Resources/Data-Jobs-Dashboard.gif" alt="Data Jobs Dashboard GIF">
+
 > 📊 Built with Power BI Desktop using data sourced from [datanerd.tech](https://datanerd.tech)
 
 ---
