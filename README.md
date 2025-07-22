@@ -22,6 +22,7 @@ Each dashboard in here is a mini case study in:
 
 ### [`data-jobs-dashboard`](./data-jobs-dashboard)
 Curious what the data job market looked like in 2024? This dashboard breaks down job titles, salaries, remote work stats, and even shows where the hiring is happening — globally.
+
 <img src="/Resources/Data-Jobs-Dashboard.gif" alt="Data Jobs Dashboard GIF">
 
 
