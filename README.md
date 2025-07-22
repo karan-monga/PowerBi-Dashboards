@@ -21,17 +21,12 @@ Each dashboard in here is a mini case study in:
 ## 📂 Dashboards Inside
 
 ### [`data-jobs-dashboard`](./data-jobs-dashboard)
-Curious what the data job market looks like in 2024? This dashboard breaks down job titles, salaries, remote work stats, and even shows where the hiring is happening — globally.
+Curious what the data job market looked like in 2024? This dashboard breaks down job titles, salaries, remote work stats, and even shows where the hiring is happening — globally.
+<img src="../Resources/Data-Jobs-Dashboard.gif" alt="Data Jobs Dashboard GIF">
+
 
 ### [`sales-performance`](./sales-performance)
 Classic sales dashboard. Revenue trends, profit margins, and a breakdown by region and product. Basically, what every manager asks for on Monday morning.
 
 ### [`customer-churn`](./customer-churn)
 Trying to figure out why people leave? This one explores churn based on customer behavior, location, and more — useful for retention or just general curiosity.
-
----
-
-## 🤔 Why Power BI?
-
-Because Excel deserves a break sometimes.  
-Power BI lets me build reports that are actually fun to interact with — clean visuals, fast insights, and smooth user experiences. These dashboards show how I think through data, design, and storytelling — all in one place.
